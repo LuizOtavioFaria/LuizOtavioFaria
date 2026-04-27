@@ -7,10 +7,11 @@
 ### 🚀 Tecnologias e Ferramentas
 Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
-**Design & UI/UX**
+**Design & Animação**
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -42,8 +43,8 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_NICK_DO_GITHUB&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NICK_DO_GITHUB&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOtavioFaria&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOtavioFaria&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 ---
@@ -59,7 +60,7 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_NICK_DO_GITHUB" target="_blank">
+  <a href="https://github.com/LuizOtavioFaria" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>

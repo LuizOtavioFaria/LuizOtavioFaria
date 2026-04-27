@@ -35,8 +35,8 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_NICK_DO_GITHUB&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NICK_DO_GITHUB&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOtavioFaria&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOtavioFaria&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 ---

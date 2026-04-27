@@ -1,34 +1,41 @@
-# Olá, eu sou o Luiz! 👋
-
-### Front-End Developer | Computer Science Student
-
-Atualmente focado em criar interfaces modernas, funcionais e de alta performance. Sou entusiasta de design minimalista e apaixonado por transformar ideias complexas em códigos limpos utilizando as melhores práticas do ecossistema Web.
-
----
-
-### 🛠 No que eu trabalho
-* **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
-* **Frameworks & Libs:** React, Vite, Node.js
-* **Estilização:** Tailwind CSS, Glassmorphism, Styled Components
-* **Ferramentas:** Git, GitHub, VS Code
-
----
-
-### 🚀 Projetos em Destaque
-* **[Login Collection](link-do-seu-repo):** Uma biblioteca pessoal de interfaces de login modernas e responsivas.
-* **[Landing Pages](link-do-seu-repo):** Criação de sites institucionais e e-commerces focados em conversão e estética refinada.
-* **[Clones de UI](link-do-seu-repo):** Estudos de interfaces de grandes plataformas para aprimorar técnicas de estilização.
-
----
-
-### 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dark"/>
+  <h1>Luiz ⚡️</h1>
+  <p><strong>Front-end Developer | Computer Science Student</strong></p>
+  <p>Construindo interfaces modernas com foco em design refinado e código limpo.</p>
 </div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_SEU_GITHUB)
+<br/>
+
+### 🛠 Tech Stack & Ferramentas
+- **Front-end:** Especialista em interfaces com **React** e **Vite**, utilizando **Tailwind CSS** para estilização rápida e moderna.
+- **Design:** Foco em estética **Glassmorphism**, temas escuros e paletas sóbrias.
+- **Tools:** Versionamento com Git, consumo de APIs e deploy automatizado.
+
+### 📁 Principais Projetos
+- **[Login Collection](link)**: Portfólio de interfaces de acesso focadas em UX e UI.
+- **[Vitoreli Project](link)**: Landing page para marca de roupas com design responsivo.
+- **[Personal Portfólio](link)**: Hub centralizado para exibir projetos e habilidades.
+
+### 📈 GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" height="150" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>

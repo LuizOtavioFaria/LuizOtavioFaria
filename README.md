@@ -51,13 +51,13 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
 ### 📫 Vamos nos conectar?
 <div align="left">
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/luizotaviofaria1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/luizotáviofaria" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/LuizOtavioFaria" target="_blank">

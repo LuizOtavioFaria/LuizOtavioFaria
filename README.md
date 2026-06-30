@@ -55,6 +55,7 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
   </table>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=LuizOtavioFaria&theme=vision-friendly-dark" alt="Streak de Commits" />
 </div>
+
 ---
 
 ### 📫 Vamos nos conectar?

@@ -43,13 +43,11 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=LuizOtavioFaria&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOtavioFaria&layout=compact&langs_count=7&theme=vision-friendly-dark" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizOtavioFaria&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizOtavioFaria&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luiz" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizOtavioFaria&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+  
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizOtavioFaria&theme=vision-friendly-dark" alt="Streak de Commits" />
 </div>
 
 ---
